@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461546718886",
+    "firebase_url": "https://breaktimer-4e771.firebaseio.com",
+    "project_id": "breaktimer-4e771",
+    "storage_bucket": "breaktimer-4e771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461546718886:android:3ce2739ab6f3e2007e5667",
+        "android_client_info": {
+          "package_name": "paswi.breaktimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461546718886-rdn5t0skf76ds2cgl0qrp4sfdv597bil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "paswi.breaktimer",
+            "certificate_hash": "544db93cbb59f28c2d258ccc48714cb083a96e3a"
+          }
+        },
+        {
+          "client_id": "461546718886-vjdbu3ktqso0kik1aj74pvlavng1jhva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ASOarqwSMhM-G1ckspBl2VB1tUYyXjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461546718886-vjdbu3ktqso0kik1aj74pvlavng1jhva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
